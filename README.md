@@ -30,8 +30,8 @@ you can edit the number of threads this script use but keep in mind not to excee
 
 # Important
 
-• You need to have python3.9 installed 
+• You need to have ```python3.9.x``` installed 
 
-• For termux reduce the number of threads to 7765 or use the termux version of the script
+• For termux reduce the number of threads to ```7765``` or use the termux version of the script
 
-• For other linux distros you can edit it freely but not to exceed 500,000
+• For other linux distros you can edit it freely but not to exceed ```500,000```
