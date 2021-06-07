@@ -4,7 +4,7 @@ Powerful DDOS Attack . made in python3 by me
 # Setup 
 
 ```
- chmod +x *.py *.txt
+ chmod +x *.py *.sh
 
  pip3 install -r requirements.txt
 
