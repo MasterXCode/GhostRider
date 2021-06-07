@@ -1,14 +1,26 @@
 # GhostRider
 Powerful DDOS Attack . made in python3 by me 
 
-# Setup 
+# Setup for Termux
 
 ```
  chmod +x *.py *.sh
 
- pip3 install -r requirements.txt
+ ./setup-termux.sh
 
 ```
+# Setup for other Linux distros
+
+```
+ chmod +x *.py *.sh
+
+ sudo ./setup-linux.sh
+
+```
+# Check
+
+• Make sure you have installed a ``` python3.9.x ``` package to make sure that the script works
+
 # Info
 
 •This tool is a powerful "DOS" { Denial Of Service } Attack script . it's totally editable by the user . this script can almost shut down a website by one or two attacks
